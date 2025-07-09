@@ -62,4 +62,5 @@ Admin_Dashboard/
 
 4. Open in browser:
 
+   Make sure the server is started before clickling the link
    http://localhost:3000
